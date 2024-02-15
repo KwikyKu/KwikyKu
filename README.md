@@ -8,7 +8,6 @@
 ## ✨ Future Tools
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="50" height="50">&nbsp;
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" width="50" height="50">&nbsp;
-https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="50" height="50">&nbsp;
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/bootstrap.svg" width="50" height="50">&nbsp;
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/figma.svg" width="50" height="50">&nbsp;
