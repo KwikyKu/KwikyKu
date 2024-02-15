@@ -4,6 +4,10 @@
   <img src="https://i.pinimg.com/originals/48/4f/72/484f7219c122ff3d5b7ffd6e3095d299.jpg" alt="изображение"  width="450px" height="250px">
 </h1>
 </div>
+<div id="badges" align="center">
+<a href="https://web.telegram.org/k/">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=telegram&logoColor=whait"
+</a>
 
 ## 💫 About me 💫
 <img src="https://i.pinimg.com/originals/55/7d/d6/557dd6dad96f28ec985dd44c5b8a16bf.jpg" 
