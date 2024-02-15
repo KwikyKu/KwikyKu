@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋
-<hr>
 <img src="https://i.pinimg.com/originals/48/4f/72/484f7219c122ff3d5b7ffd6e3095d299.jpg" alt="изображение"  width="450px" height="250px">
 </h1>
-
-
-
 ## 💫 About me 💫
 <img src="https://i.pinimg.com/originals/55/7d/d6/557dd6dad96f28ec985dd44c5b8a16bf.jpg" 
   alt="Иллюстрация" align="right" width="250px" height="200px">
