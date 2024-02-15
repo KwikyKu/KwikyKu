@@ -41,5 +41,5 @@ Attention to detail, ability to work in a team.
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/figma.svg" width="50" height="50">&nbsp;
 ## 💫 My Stats 💫
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KwikyKu&theme=onedark-duo&border_radius=50&locale=ru&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KwikyKu&theme=onedark-duo&border_radius=50&locale=ru&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
