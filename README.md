@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋
 <hr>
-<img src="https://i.pinimg.com/originals/48/4f/72/484f7219c122ff3d5b7ffd6e3095d299.jpg" alt="изображение"  width="450px" height="250px">"
+<img src="https://i.pinimg.com/originals/48/4f/72/484f7219c122ff3d5b7ffd6e3095d299.jpg" alt="изображение"  width="450px" height="250px">
 </h1>
 
 
@@ -22,7 +22,7 @@ Attention to detail, ability to work in a team.
  
 <img src="https://i.pinimg.com/originals/97/17/35/9717356ce1e6e351c98c555fcf939e00.jpg" 
   alt="Иллюстрация" align="right" width="250px" height="200px">
-•Web- разработчик Иван Петриченко
+•Web- разработчик Иван Петриченко <br>
 •Полный курс по JavaScript + React - с нуля до результата Иван Петриченко
  </br>   
   </br>
@@ -36,3 +36,5 @@ Attention to detail, ability to work in a team.
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="50" height="50">&nbsp;
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/bootstrap.svg" width="50" height="50">&nbsp;
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/figma.svg" width="50" height="50">&nbsp;
+## 💫 My Stats 💫
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KwikyKu" alt="GitHub Streak" /></a>
