@@ -2,7 +2,7 @@
 <p align="center">I'm beginner frontend developer </p>
 
 <hr>
-<img src="https://i.pinimg.com/originals/00/ce/d9/00ced9e445a38c8d2dbd9f9f8d1f1f31.jpg" alt="изображение align="center" width="650px" height="450px">"
+<img src="https://i.pinimg.com/originals/00/ce/d9/00ced9e445a38c8d2dbd9f9f8d1f1f31.jpg" alt="изображение" align="center" width="650px" height="250px">"
 <!--
 **KwikyKu/KwikyKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
