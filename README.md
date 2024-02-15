@@ -1,8 +1,8 @@
-<h1 aligin="center">Hi there 👋</h1>
-<td aligin="center">I'm beginner frontend developer </td>
+<h1 align="center">Hi there 👋</h1>
+<p align="center">I'm beginner frontend developer </p>
 
 <hr>
-<img src="https://i.pinimg.com/originals/00/ce/d9/00ced9e445a38c8d2dbd9f9f8d1f1f31.jpg" alt="изображение>"
+<img src="https://i.pinimg.com/originals/00/ce/d9/00ced9e445a38c8d2dbd9f9f8d1f1f31.jpg" alt="изображение align="center" width="650px" height="450px">"
 <!--
 **KwikyKu/KwikyKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
