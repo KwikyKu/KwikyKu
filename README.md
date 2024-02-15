@@ -17,6 +17,9 @@ Orientation to high quality of work performance.
 Attention to detail, ability to work in a team.
  </br>   
   </br>
+   </br>   
+  </br>
+   </br>
   
 ## 💫 Education 💫
  
