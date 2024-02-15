@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+#####I'm beginner frontend developer
+<hr>
+<img url="https://i.pinimg.com/originals/00/ce/d9/00ced9e445a38c8d2dbd9f9f8d1f1f31.jpg" alt="изображение>"
 <!--
 **KwikyKu/KwikyKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
