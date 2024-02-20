@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi there 👋 
+<h1>Hi 👋 
   <br>
   <img src="https://i.pinimg.com/originals/48/4f/72/484f7219c122ff3d5b7ffd6e3095d299.jpg" alt="изображение"  width="450px" height="250px">
 </h1>
